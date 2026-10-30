@@ -7,5 +7,3 @@ jobs:
      steps:
        - name: Echo text
          run: echo "Hello world!"
-
-
